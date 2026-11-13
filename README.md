@@ -61,10 +61,11 @@ Computer Science undergraduate at the **Federal University of Cariri (UFCA)** wi
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Aqu4tro&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqu4tro&layout=compact&theme=tokyonight" />
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aqu4tro&theme=tokyonight" />
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aqu4tro&theme=tokyonight" />
+  <br />
+  <img height="175em" src="https://streak-stats.demolab.com/?user=Aqu4tro&theme=tokyonight" />
 </div>
-
 ---
 
 ### 📫 Connect with Me
