@@ -14,8 +14,8 @@ Computer Science undergraduate at the **Federal University of Cariri (UFCA)** wi
 
 - 🔬 **Technological Resident – Embedded Systems & Edge AI (PNAAT / FIT):** Developing practical IoT and Edge AI solutions in partner companies during the Collaborative Residency phase.
 - 🏛️ **Software Developer (University Pro-Rectory Project – UFCA):** Architected and deployed an end-to-end internal data workflow solution—building scripts to consume government APIs, centralizing data storage, creating analytical dashboards, and deploying the stack with **Docker** on an **Ubuntu Linux Server**.
-- 🧪 **Former QA Engineering Intern @ Compass UOL:** Executed functional and integration testing for enterprise applications, improving release stability and defect resolution workflows.
-- 💻 **Former Software Development Resident @ BRISA / UFCA:** Built responsive web applications with React/Next.js and integrated REST APIs with PostgreSQL in Agile teams.
+- 🧪 **QA Engineering Intern @ Compass UOL:** Executed functional and integration testing for enterprise applications, improving release stability and defect resolution workflows.
+- 💻 **Software Development Resident @ BRISA / UFCA:** Built responsive web applications with React/Next.js and integrated REST APIs with PostgreSQL in Agile teams.
 
 ---
 
