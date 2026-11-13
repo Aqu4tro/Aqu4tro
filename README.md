@@ -1,6 +1,7 @@
 <p align="right">
   <strong>🇺🇸 English</strong> | <a href="./README.pt-br.md">🇧🇷 Português</a>
 </p>
+
 # Hi there, I'm Jonathas Levi Pascoal Palmeira 👋
 
 ### Full Stack Software Engineer | Cloud & DevOps | Embedded Systems & Edge AI Resident
@@ -68,5 +69,5 @@ Computer Science undergraduate at the **Federal University of Cariri (UFCA)** wi
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathas-levi/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathaspasco77@gmail.com)
