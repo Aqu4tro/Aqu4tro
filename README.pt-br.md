@@ -12,10 +12,10 @@ Graduando em Ciência da Computação pela **Universidade Federal do Cariri (UFC
 
 ### 🚀 Atuação Atual e Experiência
 
-- 🔬 **Residente Tecnológico – Sistemas Embarcados e Edge AI (PNAAT / FIT):** Desenvolvimento de projetos práticos de IoT e Edge AI em empresas parceiras durante a etapa de Residência Colaborativa.
-- 🏛️ **Desenvolvedor de Software (Projeto de Pró-Reitoria – UFCA):** Arquitetura e implantação de uma solução ponta a ponta para otimização do fluxo interno de dados — criando scripts de consumo de APIs governamentais, armazenamento centralizado, dashboards analíticos e deploy com **Docker** em servidor **Linux Ubuntu Server**.
-- 🧪 **Ex-Estagiário de Engenharia de QA @ Compass UOL:** Execução de testes funcionais e de integração em aplicações corporativas, contribuindo para a estabilidade das entregas e rastreamento de defeitos.
-- 💻 **Ex-Residente de Desenvolvimento de Software @ BRISA / UFCA:** Desenvolvimento de aplicações web responsivas com React/Next.js e integração de APIs REST com PostgreSQL em equipes ágeis.
+- 🔬 **Residente Tecnológico – Sistemas Embarcados e Edge AI (PNAAT / FIT):** Atuo no desenvolvimento de projetos práticos de IoT e Edge AI em empresas parceiras durante a etapa de Residência Colaborativa.
+- 🏛️ **Desenvolvedor de Software (Projeto de Pró-Reitoria – UFCA):** Atuei na arquitetura e implantação de uma solução ponta a ponta para otimização do fluxo interno de dados — criando scripts de consumo de APIs governamentais, armazenamento centralizado, dashboards analíticos e deploy com **Docker** em servidor **Linux Ubuntu Server**.
+- 🧪 **Estagiário de Engenharia de QA @ Compass UOL:** Atuei na execução de testes funcionais e de integração em aplicações corporativas, contribuindo para a estabilidade das entregas e rastreamento de defeitos.
+- 💻 **Residente de Desenvolvimento de Software @ BRISA / UFCA:** Atuei no desenvolvimento de aplicações web responsivas com React/Next.js e na integração de APIs REST com PostgreSQL em equipes ágeis.
 
 ---
 
